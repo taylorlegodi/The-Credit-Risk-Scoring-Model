@@ -15,7 +15,7 @@ As an independent project, I developed this comprehensive Credit Risk Scoring Mo
 4. **App Deployment**: Wrapped the model in a `Streamlit` application (`app.py`) for a user-facing demonstration.
 
 ## 📂 Repository Contents
-* `Credit_Risk_Scoring.ipynb`: The primary research notebook containing data analysis and model training.
+* `The_Credit_Risk_Scoring.ipynb`: The primary research notebook containing data analysis and model training.
 * `The Credit Risk Scoring Model.html`: A static, easy-to-read export of the full analysis.
 * `app.py`: The Streamlit code for the interactive credit decision tool.
 * `requirements.txt`: Dependencies for reproducing the environment.
